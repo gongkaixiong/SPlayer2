@@ -11,11 +11,11 @@
     },
     {
       "source": "/api/:apiurl*",
-      "destination": "https://music-api.focalors.ltd/:apiurl*"
+      "destination": "https://https://netease-cloud-music-api-enhanced-drab.vercel.app/:apiurl*"
     },
     {
       "source": "/api/ttml/:ttmlurl*",
-      "destination": "https://lyrics.focalors.ltd/:ttmlurl*"
+      "destination": "https://https://netease-cloud-music-api-enhanced-drab.vercel.app/:ttmlurl*"
     }
   ],
   "outputDirectory": "out/renderer"
